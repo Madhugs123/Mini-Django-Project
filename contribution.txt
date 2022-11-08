@@ -1,0 +1,4 @@
+MADHU G S
+
+An EMPLOYEE MANAGEMENT SYSTEM project is buld using python and Django. In that i mainly worked on creting a modeles.
+by defining a class called Employe, Department and Salary.
